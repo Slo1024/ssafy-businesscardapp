@@ -26,4 +26,4 @@
 
 ## 📌 팀 소개
 - 모바일 1등팀 — SSAFY 13기 Web & Mobile Track
-![alt text](image.png)
+![image](/uploads/c90b450364cde0a691810866b6fd0b76/image.png)
