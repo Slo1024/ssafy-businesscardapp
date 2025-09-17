@@ -36,9 +36,9 @@
   - **OpenAI GPT API** → 추출된 텍스트를 이름/전화번호/이메일/직책 등 필드별로 자동 분류 + 메모 요약  
 
 - **Backend & Data**  
-  - Django REST Framework (DRF) 기반 API 서버와 연동  
-  - Firebase Auth & Realtime Database → 사용자 인증 및 데이터 관리  
-  - REST API를 통한 명함 CRUD(Create, Read, Update, Delete) 기능 구현  
+  - Spring Boot 기반 API 서버와 연동  
+  - Google OAuth & MySQL → 사용자 인증 및 데이터 관리  
+  - RESTful API를 통한 명함 CRUD(Create, Read, Update, Delete) 기능 구현  
 
 - **협업 & 관리**  
   - GitLab, Jira를 통한 버전 관리 및 일정 관리  
@@ -46,5 +46,5 @@
 ---
 
 ## 📌 팀 소개
-- 모바일 1등팀 — SSAFY 13기 Web & Mobile Track
+- 모바일 1등팀 — SSAFY 13기 2학기 공통 프로젝트
 ![image](/uploads/c90b450364cde0a691810866b6fd0b76/image.png)
