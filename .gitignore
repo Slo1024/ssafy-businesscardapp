@@ -1,0 +1,9 @@
+*.apk
+*.aab
+*.keystore
+*.jks
+*.pem
+*.p12
+.env
+google-services.json
+release/
